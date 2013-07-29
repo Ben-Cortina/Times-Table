@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Game Services">
+    <Position X="31.027" Y="0.889" Height="0.75" Width="3.96" />
+  </Comment>
+  <Comment CommentText="Screen Elements">
+    <Position X="25.816" Y="0.5" Height="0.75" Width="4.121" />
+  </Comment>
+  <Comment CommentText="Game">
+    <Position X="17.53" Y="0.529" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="Project3.MathGame">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAEkAAAAAAwAAAAAAAggBAAAAABgIAgAAAABAAAQ=</HashCode>
+      <FileName>MathGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.Program">
+    <Position X="15.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.Button">
+    <Position X="27" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAggAAAAKAAQACAAEAQgAAQAAQCEAAAAk=</HashCode>
+      <FileName>ScreenElements\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.ButtonCalc">
+    <Position X="27" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAQgAAAkAAAAAAAAAAAAAIAAAQBAAgAAA=</HashCode>
+      <FileName>ScreenElements\ButtonCalc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.ButtonMenu">
+    <Position X="29.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAQAAAgAKAgJACAAgAAAAgAAIAAAQAAAAAAA=</HashCode>
+      <FileName>ScreenElements\ButtonMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.ButtonTable">
+    <Position X="25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAkAAIAJQAIACAACAQAAAAAAAAAAgQAg=</HashCode>
+      <FileName>ScreenElements\ButtonTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.ButtonTT">
+    <Position X="24.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAgAgAAI=</HashCode>
+      <FileName>ScreenElements\ButtonTT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.IconTable">
+    <Position X="28.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEAAAEAAAgAAAAJAAQACAACAAAAAAAAACAAgAAA=</HashCode>
+      <FileName>ScreenElements\IconTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.InputState">
+    <Position X="31.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAyQAUAAAUACAAAABEAAQAgBMABAAhAAIAACEAAAAIA=</HashCode>
+      <FileName>ScreenManagement\InputState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.ScreenManagement.AudioLibrary">
+    <Position X="33" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAABAAAAAQAAAAAAAAgQCAAAEAgAQ=</HashCode>
+      <FileName>ScreenManagement\AudioLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.ScreenManagement.GameScreen">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAUAAAgAAAAAAAAEAAAABGAAMAhggSAIEAAIAAAE=</HashCode>
+      <FileName>ScreenManagement\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.Screens.Background">
+    <Position X="20" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAgIAAAwAAQAAAAAgAoAAAABAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Screens\Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.Screens.Help">
+    <Position X="15.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABYAAAGAAACCAwAIAgAAAAQAgAAAQAAgAAAAgAAIAAQ=</HashCode>
+      <FileName>Screens\Help.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.Screens.Intro">
+    <Position X="17" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAEAAAAIAAwAAAgAAAAAAAAAAAAAAAAAAAAAAABQ=</HashCode>
+      <FileName>Screens\Intro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.Screens.Menu">
+    <Position X="18.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARYAAACAAACAEwAAAAIAgAAAAAAAQCAgAAAEAABAAAQ=</HashCode>
+      <FileName>Screens\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.Screens.Test">
+    <Position X="21.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgYAEICgBggBAwKAAAgCHAgABAAEBAAAAEkggAAgSAQ=</HashCode>
+      <FileName>Screens\Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project3.Screens.TimesTable">
+    <Position X="23" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAEACAAgAAAwAAAAIAAAAABAAEAMAAAAAAgAAwAAQ=</HashCode>
+      <FileName>Screens\TimesTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Project3.Screens.Side">
+    <Position X="20" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAACACAAAAAAAA=</HashCode>
+      <FileName>Screens\Background.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Project3.Screens.Corner">
+    <Position X="20" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Screens\Background.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Project3.Screens.HelpSection">
+    <Position X="15.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAgAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Screens\Help.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
